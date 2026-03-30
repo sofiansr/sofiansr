@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 French computer science student in CY-Tech, near Paris, France.
-Currently learning Python and C
+Embedded Software Engineer Apprentice at Exail Technologies.
+
 <!--
 **StrixRange/StrixRange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
