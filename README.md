@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-French computer science student in CY-Tech, near Paris, France.
-
+French computer science student in CY-Tech, near Paris, France.</br>
 Embedded Software Engineer Apprentice at Exail Technologies.
 
 <!--
