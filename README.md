@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 French computer science student in CY-Tech, near Paris, France.</br>
-Embedded Software Engineer Apprentice at Exail Technologies.
+Embedded Software Engineer Apprentice at Exail Technologies in Saint-Germain-en-Laye, France.
 
 <!--
 **StrixRange/StrixRange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
